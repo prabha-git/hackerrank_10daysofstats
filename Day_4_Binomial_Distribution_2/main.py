@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem
 import math 
 
 p = 0.88
